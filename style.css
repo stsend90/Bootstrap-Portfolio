@@ -1,0 +1,30 @@
+body {
+    background: url(https://images..com/photo-1465146633011-14f8e0781093?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+    background: url()
+}
+
+.name {
+    margin-left: 9%;
+}
+
+.buttons {
+    margin-right: 9%;
+}
+
+.jumbotron {
+    margin: 10%;
+    max-height: 100%;
+}
+
+#footer-bottom {
+    padding-top: 7%;
+}
+
+h3 {
+    padding-left: 50%;
+}
+
