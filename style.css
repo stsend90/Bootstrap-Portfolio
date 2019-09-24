@@ -1,11 +1,8 @@
 body {
-    background: url(https://images..com/photo-1465146633011-14f8e0781093?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
-    font-family: Arial, Helvetica, sans-serif;
+    background: url(https://images.pexels.com/photos/1927507/pexels-photo-1927507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
 }
 
-.navbar {
-    background: url()
-}
+
 
 .name {
     margin-left: 9%;
@@ -15,9 +12,24 @@ body {
     margin-right: 9%;
 }
 
-.jumbotron {
+.jumbo1 {
     margin: 10%;
+    padding: 2%;
     max-height: 100%;
+    background: url(https://images.pexels.com/photos/950241/pexels-photo-950241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    color: darkblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.jumbo2 {
+    margin: 10%;
+    padding: 2%;
+    max-height: 100%;
+    color: darkblue;
+    background: url(https://images.pexels.com/photos/950241/pexels-photo-950241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
 }
 
 #footer-bottom {
@@ -26,5 +38,6 @@ body {
 
 h3 {
     padding-left: 50%;
+    color: darkblue;
 }
 
