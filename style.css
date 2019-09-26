@@ -4,15 +4,14 @@ body {
 }
 
 .container {
-    background: white;
     color: blue;
-    margin-top: 3%;
+    margin-top: 4%;
    
 }
 
 .row {
     margin: 5%;
-    background: white;
+    background:url(https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
 }
 
 h2 {
@@ -21,7 +20,7 @@ h2 {
 }
 
 section {
-    background: darkgray;
+    background: url(https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
     margin: 5%;
     padding: 2%;
 }
@@ -35,3 +34,30 @@ img {
     border-top:5px solid darkblue;
 }
 
+h3 {
+    padding-left: 48%;
+}
+
+.wrapper {
+    background: url(https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    margin: 5%;
+    padding: 2%;
+    overflow: auto;
+}
+
+.portfolio a {
+    position: relative;
+    margin: 3%;
+    margin-left: 45px;
+    float: left;
+}
+
+.portfolio p {
+    position: absolute;
+    width: 100%;
+    bottom: 10%;
+    text-align: center;
+    background-color: darkgrey;
+    padding: 10px 0px 10px 0px;
+    color: darkblue;
+}
